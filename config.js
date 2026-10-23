@@ -167,9 +167,9 @@ window.DECK = {
     photo: "assets/slm-02a.jpg",
     photoAlt: "Static banner over the underpass on Sheikh Zayed Bin Sultan Street",
     fit: "contain",
-    mapsUrl: "https://www.google.com/maps/place/24%C2%B026'39.2%22N+54%C2%B026'27.6%22E/@24.4442216,54.4384195,1026m/data=!3m1!1e3!4m4!3m3!8m2!3d24.4442167!4d54.4409944?entry=ttu&g_ep=EgoyMDI2MTAxOC4wIKXMDSoASAFQAw%3D%3D",
+    mapsUrl: "https://www.google.com/maps/place/24.44441,54.44097/@24.44441,54.44097,17z",
     mapsLabel: "Open in Google Maps",
-    pin: "24°26'39.2\"N 54°26'27.6\"E",
+    pin: "24.44441, 54.44097",
     specs: [
       { label: "Code", value: "SLM 02A" },
       { label: "Size", value: "40m × 2.5m" },
@@ -185,9 +185,12 @@ window.DECK = {
     title: "Facing traffic",
     titleEm: "into the city.",
     body: "On Sheikh Zayed Bin Sultan Street, formerly Salam Street, before twofour54, the Ministry of Labour, and the Police Officers Club. It is the second underpass before Sheikh Zayed Bridge, facing vehicles coming into the city from Dubai, Al Ain, and Mussafah.",
-    mapsUrl: "https://www.google.com/maps/place/24%C2%B026'39.2%22N+54%C2%B026'27.6%22E/@24.4442216,54.4384195,1026m/data=!3m1!1e3!4m4!3m3!8m2!3d24.4442167!4d54.4409944?entry=ttu&g_ep=EgoyMDI2MTAxOC4wIKXMDSoASAFQAw%3D%3D",
+    map: "assets/szb-static-map.png",
+    mapAlt: "Map of the Sheikh Zayed Bin Sultan static bridge banner, with the pin at 24.44441, 54.44097",
+    caption: "Sheikh Zayed Bin Sultan static bridge banner. The pin is 24.44441, 54.44097.",
+    mapsUrl: "https://www.google.com/maps/place/24.44441,54.44097/@24.44441,54.44097,17z",
     mapsLabel: "Open in Google Maps",
-    pin: "24°26'39.2\"N 54°26'27.6\"E",
+    pin: "24.44441, 54.44097",
   },
 
   digital: {
